@@ -1,0 +1,47 @@
+.store-locator-header {
+    width: 100%;
+    height: auto;
+    text-align: center;
+}
+.store-locator-header img {
+    width: 20px;
+    height: auto;
+}
+.place-search-container {
+    width: 100%;
+    text-align: center;
+    margin-bottom: 20px;
+}
+#place_input {
+
+    padding: 6px 10px;
+    font-size: 14px;
+    width: 300px;
+
+}
+.loctor-footer {
+
+    width: 100%;
+    text-align: center;
+    margin: 30px auto;
+
+}
+.store-name {
+
+    padding: 5px;
+    margin: 0px 5px;
+
+}
+.submit-btn {
+
+    padding: 5px;
+    margin-left: 5px;
+
+}
+.btn-nav {
+    text-decoration: navajowhite;
+    color: #000;
+    border: 1px solid #000;
+    padding: 5px;
+    margin-left: 50px;
+}
